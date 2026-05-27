@@ -1,0 +1,11 @@
+# Neural network models and weights
+*.pth
+/models/
+
+# Training and evaluating data
+*.csv
+/loss_data/
+/data/
+
+# Unimportant .py files
+/mess_py/
